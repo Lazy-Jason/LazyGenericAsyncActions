@@ -1,0 +1,24 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "LazyGenericAsyncActions",
+	"Description": "",
+	"Category": "LazyGenerics",
+	"CreatedBy": "Job Omondiale",
+	"CreatedByURL": "https://github.com/jasonG006",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EngineVersion": "5.1.0",
+	"Modules": [
+		{
+			"Name": "LazyGenericAsyncActions",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
